@@ -3,6 +3,7 @@
 Original Contributor: Cem H. M. Yesilyurt
 
 Description:
+
 This project is a schedule maker for the AYSO (American Youth Soccer Organization), to be used when scheduling weekly Saturday games, separately for the Fall and Spring seasons.  It is stable and may be developed further to schedule games in end-of-season tournaments.  The project is object-oriented and uses classes with lists to keep track of variables.  The project is written in Python.
 
 Files:
