@@ -8,7 +8,6 @@ This project is a schedule maker for the AYSO (American Youth Soccer Organizatio
 
 Files:
 - area.py
-- AYSO.wpr (Wing project file)
 - division.py
 - field.py
 - game.py
